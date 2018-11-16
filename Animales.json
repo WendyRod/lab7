@@ -1,0 +1,87 @@
+const pets = [
+  {
+    "name": "Meowsy",
+    "species" : "cat",
+	"photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg",  
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]    
+    } 
+  },
+  {
+    "name": "Barky",
+    "species" : "dog",
+	  "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+	
+    }
+	   
+  },
+  {
+    "name": "Purrpaws",
+    "species" : "cat",
+	  "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg",
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+	
+    }
+	  
+  },
+	{
+    "name": "Whiskers",
+    "species" : "cat",
+	"photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7nR4LhKKC6F3nKrL28LlO8mGnj7aiO1GfxjlqdkggwTVSWuzFQ",
+    "foods": {
+      "likes": ["celery", "strawberries"],
+      "dislikes": ["carrots"]
+    }
+  },
+  {
+    "name": "Woof",
+    "species" : "dog",
+	"photo": "https://i0.wp.com/thehappening.com/wp-content/uploads/2015/08/king-cavalier-2.jpg?w=1024&ssl=1",
+    "foods": {
+      "likes": ["dog food"],
+      "dislikes": ["cat food"]
+    }
+  },
+  {
+    "name": "Fluffy",
+    "species" : "cat",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjiNfYpuEXaWBR2rxUTlaBeCNuszdF6t731TxbwOlMRfxT5k9CKA",
+    "foods": {
+      "likes": ["canned food"],
+      "dislikes": ["dry food"]
+    }
+  },
+	{
+    "name": "Kitty",
+    "species" : "cat",
+	"photo": "https://cdn1.royalcanin.es/wp-content/uploads/2017/01/gatos-de-interior.jpg",
+    "foods": {
+      "likes": ["fresh food"],
+      "dislikes": ["stale food"]
+    }
+  },
+  {
+    "name": "Pupster",
+    "species" : "dog",
+	  "photo": "https://hipertextual.com/files/2018/08/jairo-alzate-45522-670x410.jpg",
+    "foods": {
+      "likes": ["tomatoes", "peas"],
+      "dislikes": ["bread"]
+    }
+  },
+  {
+    "name": "Tux",
+    "species" : "cat",
+	  "photo": "https://t1.uc.ltmcdn.com/images/6/1/6/img_por_que_mi_gato_maulla_mucho_26616_600.jpg",
+    "foods": {
+      "likes": ["fancy dishes"],
+      "dislikes": ["basic cat food"]
+    }
+  }
+]
